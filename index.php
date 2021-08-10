@@ -14,7 +14,7 @@
   include 'navbar.php';
   ?>
   
-      <div class="container-fluid">
+      <div class="container-fluid" style="height: auto;">
       <div class="row justify-content-md-center align-items-md-center" style="height: 80vh;">
 
             <div class="col text-center">
@@ -24,10 +24,6 @@
                   </div>
             </div>
             <div class="col text-center">
-                  <div class="col-md act">
-                    <br>
-                    <a href="createuser.php" ><button style="background-color : #1775ee; color: white; width: 300px; margin-top: 10px; margin-bottom: 20px; font-size: 20px">Register a User</button></a>
-                  </div>
                   <div class="col-md act">
                     <br>
                     <a href="transfermoney.php"><button style="background-color : #1775ee; color: white; width: 300px; margin-top: 10px; margin-bottom: 20px; font-size: 20px">Make a Transaction</button></a>

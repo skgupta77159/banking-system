@@ -32,10 +32,6 @@ button:hover{
 	background-color:#4C4B4B;
 }
 
-
-.container-fluid{
-	height: 100vh;
-}
 @media only screen and (orientation:portrait){
 	.intro{
 		display:flex;
