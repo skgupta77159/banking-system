@@ -31,7 +31,7 @@
 ?>
 
 <div class="container">
-        <h2 class="text-center pt-4" style="color : black;">Transfer Money</h2>
+        <h2 class="text-center pt-4" style="color : #1775ee;">Transfer Money</h2>
         <br>
             <div class="row">
                 <div class="col">

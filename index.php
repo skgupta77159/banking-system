@@ -1,15 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
-
     <title>Basic Banking System</title>
   </head>
 
@@ -30,7 +26,7 @@
             <div class="col text-center">
                   <div class="col-md act">
                     <br>
-                    <a href="createuser.php" ><button style="background-color : #1775ee; color: white; width: 300px; margin-top: 10px; margin-bottom: 20px; font-size: 20px">Create a User</button></a>
+                    <a href="createuser.php" ><button style="background-color : #1775ee; color: white; width: 300px; margin-top: 10px; margin-bottom: 20px; font-size: 20px">Register a User</button></a>
                   </div>
                   <div class="col-md act">
                     <br>
