@@ -1,4 +1,5 @@
-# Sushil Gupta Banking System
+# Sushil Gupta - Basic Banking System
+# Task -01
 Sparks Foundation Internship Project : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
@@ -12,3 +13,13 @@ Database contains two Tables- Users Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
+# Screenshots 📸
+
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-1.png"/>|
+|---|
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-2.png"/>|
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-3.png"/>|
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-4.png"/>|
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-5.png"/>|
+|<img src="https://github.com/skgupta77159/Raw-Project/blob/master/SparkIntern/banking-system-6.png"/>|
